@@ -1,3 +1,3 @@
-N = (input())
-K = (input())
-print(f"яблок у студентов: {N/K} \n  в корзине: {K%N}")
+N = int(input())
+K = int(input())
+print(f"яблок у студентов: {K/N} , в корзине: {K%N}")

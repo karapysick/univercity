@@ -1,2 +1,2 @@
-a = (input())
-print("привет, "+ a + "!")
+a = input()
+print(f'привет,{a}!')
